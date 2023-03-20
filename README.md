@@ -1,1 +1,2 @@
-PasCal's Triangle
+Short specializations.
+Sprint Two
