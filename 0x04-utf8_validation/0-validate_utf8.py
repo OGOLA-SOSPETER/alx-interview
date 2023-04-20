@@ -1,7 +1,12 @@
+#!/usr/bin/python3
+"""
+UTF-8 Validation
+"""
+
 def validUTF8(data):
     # Initialize a count of the number of bytes in the current UTF-8 character
     num_bytes = 0
-    
+
     # Iterate over each byte in the data set
     for byte in data:
         # Check if this byte is the start of a new UTF-8 character
